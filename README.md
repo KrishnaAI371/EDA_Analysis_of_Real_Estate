@@ -3,7 +3,7 @@ This Project explains real estate dataset from Taiwan. It explores various aspec
 like Pandas,Numpy,Seaborn,Matplotlib.
 ## Objective
 To derive insights from Taiwan's real estate dataset by visualizing relationships between features like house age, location, and price per unit area.
- **Description**: The dataset contains 414 rows and 7 features, including:
+ Description: The dataset contains 414 rows and 7 features, including:
   - House age
   - Distance to the nearest MRT station
   - Number of convenience stores
