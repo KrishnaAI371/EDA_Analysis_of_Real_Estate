@@ -26,3 +26,5 @@ To derive insights from Taiwan's real estate dataset by visualizing relationship
  - Houses closer to MRT stations tend to have higher price per unit area.
  - Age of the house has an inverse relationship with price.
  - Convenience stores and location coordinates also influence house value
+ - <img width="404" height="359" alt="image" src="https://github.com/user-attachments/assets/a44fcdeb-ab57-497d-b8f5-8b6fb2d48794" />
+
